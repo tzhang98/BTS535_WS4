@@ -9,4 +9,4 @@ Code Review:
 Every piece of code must be reviewed by at least one other team member before merging.
 Feedback should be constructive and focused on the code, not the individual.
 Work Hours:
-Core work hours are from 8 pm to 12 pm. Team members are expected to be available during this time. 
+Core working hours are from 8 pm to 12 pm. Team members are expected to be available during this time. 
