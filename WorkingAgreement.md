@@ -2,7 +2,7 @@ Team Communication:
 Channels: All team communication will be primarily through Discord.
 Response Time: Team members should respond within 24 hours on weekdays.
 Meeting Norms:
-Frequency: Depending on the needs, we can communicate above DC, and try to choose evenings to avoid conflicting with class schedules.
+Frequency: Depending on the needs, we can communicate above DC, and try to choose evenings to avoid conflicting with class schedules or other prior engagements.
 Agenda: An agenda for each meeting will be shared at least 24 hours in advance.
 
 Code Review:
